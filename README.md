@@ -9,7 +9,7 @@
 
 ![VINAGHOST#2262](https://dcbadge.vercel.app/api/shield/311088909184401408?style=plastic&compact=true)
 
-- My stats 🙂
+- My stats
 
 ![My stats ](https://github-readme-stats.vercel.app/api?username=VINAGHOST)
 
@@ -17,7 +17,13 @@
 
 ![My contribution graph](https://activity-graph.herokuapp.com/graph?username=VINAGHOST&theme=react-dark)
 
-Other badge:
+- My Donation link
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T3648VG)
+
+[![MOMO](https://upload.wikimedia.org/wikipedia/vi/f/fe/MoMo_Logo.png)](https://nhantien.momo.vn/8C4j4DfmHO3)
+
+- Other badge:
 
 Visit counter ![Visits Badge](https://badges.pufler.dev/visits/vinaghost/vinaghost)
 
