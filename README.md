@@ -5,7 +5,9 @@
 
 - I currently working on [TravianBotSharp](https://github.com/Erol444/TravianBotSharp)
 
-- Contact with me through Discord![VINAGHOST#2262](https://dcbadge.vercel.app/api/shield/311088909184401408?style=plastic&compact=true) (VINAGHOST#2262)
+- Contact with me through Discord VINAGHOST#2262
+
+![VINAGHOST#2262](https://dcbadge.vercel.app/api/shield/311088909184401408?style=plastic&compact=true)
 
 - My stats 🙂
 
