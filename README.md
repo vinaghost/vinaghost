@@ -1,16 +1,18 @@
-### Hi there 👋
 
-<!--
-**vinaghost/vinaghost** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi there 👋
 
-Here are some ideas to get you started:
+## My name is VINAGHOST
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- I currently working on [TravianBotSharp](https://github.com/Erol444/TravianBotSharp)
+
+- Contact with me through Discord![VINAGHOST#2262](https://dcbadge.vercel.app/api/shield/311088909184401408?style=plastic&compact=true) (VINAGHOST#2262)
+
+- My stats 🙂![My stats ](https://github-readme-stats.vercel.app/api?username=VINAGHOST)
+
+- My contribution graph
+
+![My contribution graph](https://activity-graph.herokuapp.com/graph?username=VINAGHOST&theme=react-dark)
+
+Other badge:
+Visit counter ![Visits Badge](https://badges.pufler.dev/visits/vinaghost/vinaghost)
+Github member for ![Years Badge](https://badges.pufler.dev/years/vinaghost)
