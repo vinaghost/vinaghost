@@ -21,7 +21,7 @@
 
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/T6T3648VG)
 
-[![MOMO](https://upload.wikimedia.org/wikipedia/vi/f/fe/MoMo_Logo.png)](https://nhantien.momo.vn/8C4j4DfmHO3)
+[![MOMO](https://upload.wikimedia.org/wikipedia/vi/f/fe/MoMo_Logo.png)](https://me.momo.vn/QDI6uEIJiAUvfNTDF2u9)
 
 - Other badge:
 
