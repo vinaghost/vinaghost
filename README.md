@@ -7,7 +7,6 @@
 
 - Contact with me through Discord VINAGHOST#2262
 
-![VINAGHOST#2262](https://dcbadge.vercel.app/api/shield/406125028065804289)
 
 - My stats
 
