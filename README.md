@@ -12,6 +12,8 @@
 - My stats
 
 ![My stats ](https://github-readme-stats.vercel.app/api?username=VINAGHOST)
+[![trophy](https://github-profile-trophy.vercel.app/?username=VINAGHOST)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 - My contribution graph
 
