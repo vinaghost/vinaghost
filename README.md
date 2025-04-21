@@ -16,7 +16,7 @@
 
 - My contribution graph
 
-![My contribution graph](https://activity-graph.herokuapp.com/graph?username=VINAGHOST&theme=react-dark)
+![My contribution graph](https://github-readme-activity-graph.cyclic.app/graph?username=VINAGHOST&theme=react-dark)
 
 - My Donation link
 
