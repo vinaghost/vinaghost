@@ -3,7 +3,7 @@
 
 ## My name is VINAGHOST
 
-- I currently working on [TravianBotSharp](https://github.com/Erol444/TravianBotSharp)
+- I currently working on [TravianBotSharp](https://github.com/vinaghost/TravianBotSharp)
 
 - Contact with me through Discord VINAGHOST#2262
 
